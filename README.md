@@ -107,7 +107,7 @@ Response
 ### Edit Specific Patient Endpoint
 
 
-> Request Method: **PUT** <br> Endpoint: **/Patient/{id}**
+> Request Method: **PUT** <br> Endpoint: **/Patients/{id}**
 
 Request Header
 ```js
@@ -134,7 +134,7 @@ Response
 ### Show Specific Patient Endpoint
 
 
-> Request Method: **GET** <br> Endpoint: **/Patient/{id}**
+> Request Method: **GET** <br> Endpoint: **/Patients/{id}**
 
 {
     "data": {
