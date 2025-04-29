@@ -136,7 +136,10 @@ Response
 
 > Request Method: **GET** <br> Endpoint: **/Patients/{id}**
 
+Response
+```js
 {
+    
     "data": {
         "id": 1,
         "first_name": "Ahmed",
@@ -147,7 +150,9 @@ Response
         "condition_description": null,
         "registration_date": "2023-08-20"
     }
+
 }
+```
 
 <br>
 ### Registration Endpoint
